@@ -67,7 +67,7 @@
 		8421254D1D221E5400BE1AD4 /* NUIFramerRelationLogicSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NUIFramerRelationLogicSpec.m; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		8FE54081095DA06C9DEFF817 /* Pods-Framer_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Framer_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-Framer_Example/Pods-Framer_Example.release.xcconfig"; sourceTree = "<group>"; };
-		9DFB9A089DC9D65E6209DE58 /* Framer.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Framer.podspec; path = ../Framer.podspec; sourceTree = "<group>"; };
+		9DFB9A089DC9D65E6209DE58 /* MXFramer.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MXFramer.podspec; path = ../MXFramer.podspec; sourceTree = "<group>"; };
 		D28C5EEE273028266D77C1EA /* Pods-Framer_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Framer_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Framer_Example/Pods-Framer_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D3902ED12DE4209791CEA4F4 /* Pods-Framer_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Framer_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Framer_Tests/Pods-Framer_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E0A98F06E17B7147C9291D03 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
@@ -184,7 +184,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				9DFB9A089DC9D65E6209DE58 /* Framer.podspec */,
+				9DFB9A089DC9D65E6209DE58 /* MXFramer.podspec */,
 				63E46CAD2F3252C0278DE880 /* README.md */,
 				E0A98F06E17B7147C9291D03 /* LICENSE */,
 			);
