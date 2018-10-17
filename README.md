@@ -20,7 +20,7 @@ $ sudo gem install cocoapods
 To install Framer, simply add the following line to your Podfile:
 
 ```ruby
-pod "Framer"
+pod "MXFramer"
 ```
 
 then add 
