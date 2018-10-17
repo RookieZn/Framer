@@ -68,7 +68,11 @@
 }
 
 - (void)endConfigurate {
-    
+    CGFloat x = floor(self.newRect.origin.x);
+    CGFloat y = floor(self.newRect.origin.y);
+    CGFloat width = ceil(self.newRect.size.width);
+    CGFloat height = ceil(self.newRect.size.height);
+    self.newRect = CGRectMake(x, y, width, height);
     self.view.frame = self.newRect;
 }
 
